@@ -8,4 +8,21 @@ In static testing (manual testing)  the business team and designers read and tes
 Static testing is also known as the verification process.
 
 Verification is a process of creating requirements and design documents, then testing the document’s correctness by validating whether they are developing the product correctly in the first and second phases of SDLC
-The business team members: PO, PM, BA and Designers perform the Static testing
+The business team members: PO, PM, BA and Designers perform the Static testing.
+
+
+
+                               Dynamic Testing
+
+ Testing code and the software itself is called Dynamic testing, Developing & Testing.
+  / 3rd & 4th step of SDLC
+
+Dynamic Testing: Validation process: is a process of writing code and testing code, and testing actual software. Through the validation process, testers ensure whether is the right product as the client request.
+Dynamic testing requires the code to be executed, and it requires performing both manual and automatic testing.
+Developers, Functions testers ( QA/SDET), Performance testers,   The client,  End users are the people perform the Dynamic testing
+
+In dynamic testing, the developers, various testers and the client test the software by providing input and examining output to find and fix bugs.
+-	White box testing
+-	Black box testing
+-	Grey box testing
+
