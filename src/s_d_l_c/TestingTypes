@@ -26,3 +26,14 @@ In dynamic testing, the developers, various testers and the client test the soft
 -	Black box testing
 -	Grey box testing
 
+                               Unit testing
+
+
+Coders (developers) make this test. Testing the smallest part of the codes.
+Also called module/component testing. The first level of testing.
+In this stage developer test the software’s individual unit or module from the developers’s perspective.
+Developers write unit tests for their code to make sure that code workes correctly.
+Who: Performed by developers
+Env:  in development environment,
+Part: part of a white box testing
+
