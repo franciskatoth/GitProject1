@@ -1,0 +1,11 @@
+
+
+                               Static testing
+
+It is a verification process, test object is : Documents, Req gathering & Design steps.
+
+In static testing (manual testing)  the business team and designers read and test various documents to prevent errors in the later stages of SDLC.
+Static testing is also known as the verification process.
+
+Verification is a process of creating requirements and design documents, then testing the document’s correctness by validating whether they are developing the product correctly in the first and second phases of SDLC
+The business team members: PO, PM, BA and Designers perform the Static testing
