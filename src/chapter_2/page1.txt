@@ -1,0 +1,7 @@
+What is ASCII Code?
+
+ASCII stands for American Standard code for Information Interchange. ASCII character range is 0 to 255.
+We can’t add more characters to the ASCII Character set. ASCII character set supports only English. That
+6 | P a g e
+is the reason, if we see C language we can write c language only in English we can’t write in other
+languages because it uses ASCII code.
