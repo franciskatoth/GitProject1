@@ -5,7 +5,10 @@ Package can be declared using the following statement :
 Syntax : package <package-name>
 Coding Convention : package name should be declared in small letters. 
 package statement defines the namespace.
-The main use of package is
+
+The main use of package is:
+
 1) To resolve naming conflicts
+
 2) For visibility control : We can define classes and interfaces that are not accessible outside the 
 class.
