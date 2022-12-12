@@ -6,3 +6,4 @@ Commit ---> Push
 &
 
 Remote ---> Local
+Pull and Update
